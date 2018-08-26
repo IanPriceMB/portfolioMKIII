@@ -6,8 +6,4 @@
     height: 100vh;
     background-color: black;
     margin-bottom: 400px;
-    overflow: auto;
 }
-.div::-webkit-scrollbar { 
-    display: none; 
-  }

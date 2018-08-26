@@ -1,7 +1,6 @@
 .canvas{
     box-sizing: content-box;
     width: 100%;
-    height: calc(300vh + 800px);
     position: fixed;
     top: 0;
 }
